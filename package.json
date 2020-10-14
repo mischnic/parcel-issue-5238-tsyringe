@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"build": "parcel build index.html"
+	},
+	"dependencies": {
+		"@parcel/transformer-typescript-tsc": "^2.0.0-nightly.427",
+		"parcel": "^2.0.0-nightly.425",
+		"reflect-metadata": "^0.1.13",
+		"tsyringe": "^4.3.0",
+		"typescript": "^4.0.3"
+	}
+}
